@@ -2,7 +2,7 @@
 
 
 ### :heavy_check_mark: Instalação do ambiente:
-- [ ] Intalação do Node versão Estavel
+- [x] Intalação do Node versão Estavel
 - [ ] Instalar o typescript: npm install -g typescript 
 - [ ] Criar arquivo tsconfig
 - [ ] Criar o index.ts
@@ -37,9 +37,6 @@ interface Animais {
 
 - [ ] Exercicio 3:
 Criar um type com a função Omit, uma com Partial  e uma com Optional
-
-- [ ] Exercicio 4:
-Criar um enum de cores primarias;
 
 
 ### :heavy_check_mark: Avaliação do que foi criado?
